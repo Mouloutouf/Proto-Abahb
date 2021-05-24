@@ -1,0 +1,17 @@
+{
+    "name": "ABAHB.Features",
+    "rootNamespace": "",
+    "references": [
+        "GUID:03e8dd99fb73b374681e7e8156119e12",
+        "GUID:da7abd44cdeea48609605c1c2c9609c0"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

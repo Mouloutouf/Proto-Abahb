@@ -1,0 +1,20 @@
+{
+    "name": "Dialogue",
+    "rootNamespace": "",
+    "references": [
+        "Extensions",
+        "SuperTextMesh",
+        "Utilities.NeUI",
+        "Utilities.Database",
+        "Utilities.Singleton"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

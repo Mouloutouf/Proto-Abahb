@@ -1,0 +1,17 @@
+{
+    "name": "ABAHB.UI",
+    "rootNamespace": "",
+    "references": [
+        "GUID:5b70f83da6937434491f26e0fd0cd099",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Utilities.Database",
+    "rootNamespace": "",
+    "references": [
+        "GUID:fab7e1c4486da5946b11c65ebffdacb8"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
